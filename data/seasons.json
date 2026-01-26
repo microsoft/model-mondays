@@ -1,0 +1,38 @@
+[
+  {
+    "season": 1,
+    "title": "Season 1: Building Model IQ Foundations",
+    "startDate": "2025-01-06",
+    "endDate": "2025-05-31",
+    "theme": "Introduction to Model Selection and Azure AI",
+    "description": "Season 1 introduces the Model Mondays format and covers foundational topics in model selection, evaluation, and deployment using Azure AI Foundry and GitHub Models.",
+    "totalEpisodes": 8,
+    "totalAMAs": 8,
+    "status": "completed",
+    "banner": "assets/misc/season-1-banner.png"
+  },
+  {
+    "season": 2,
+    "title": "Season 2: Advanced Model Techniques",
+    "startDate": "2025-06-16",
+    "endDate": "2025-09-15",
+    "theme": "Deep Dive into Reasoning, Multimodal, and Specialized Models",
+    "description": "Season 2 explores advanced topics including reasoning models, multimodal AI, model customization, and real-world customer implementations.",
+    "totalEpisodes": 13,
+    "totalAMAs": 13,
+    "status": "completed",
+    "banner": "assets/misc/season-2-banner.png"
+  },
+  {
+    "season": 3,
+    "title": "Season 3: Models for Beginners Integration",
+    "startDate": "2025-12-01",
+    "endDate": "2026-04-06",
+    "theme": "Learning Through Practice with Models for Beginners Curriculum",
+    "description": "Season 3 integrates structured learning with the Models for Beginners curriculum, featuring weekly lessons alongside spotlights on Microsoft Ignite announcements and practical implementations.",
+    "totalEpisodes": 16,
+    "totalAMAs": 16,
+    "status": "active",
+    "banner": "assets/misc/season-3-banner.png"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "azure-reasoning-docs",
+    "title": "How to use reasoning models with Azure AI Foundry",
+    "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/how-to/use-chat-reasoning",
+    "type": "documentation",
+    "description": "Official Microsoft documentation for implementing reasoning models using Azure AI Foundry, covering Python, JavaScript, Java, and C# examples.",
+    "provider": "Microsoft",
+    "topics": [
+      "reasoning-models",
+      "azure-ai-foundry"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": true
+  },
+  {
+    "id": "deepseek-tutorial",
+    "title": "Tutorial: Get started with DeepSeek-R1 reasoning model",
+    "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/tutorials/get-started-deepseek-r1",
+    "type": "documentation",
+    "description": "Step-by-step tutorial for deploying and using DeepSeek-R1 in Azure AI Foundry.",
+    "provider": "Microsoft",
+    "topics": [
+      "deepseek",
+      "reasoning-models"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": true
+  },
+  {
+    "id": "lab331-deep-researcher",
+    "title": "Deep Researcher Lab (Build)",
+    "url": "https://aka.ms/build/lab331",
+    "type": "lab",
+    "description": "Hands-on lab for building a deep research application using reasoning models and LangChain.",
+    "provider": "Microsoft",
+    "topics": [
+      "reasoning-models",
+      "langchain"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": true
+  },
+  {
+    "id": "aitour-model-router-lab",
+    "title": "AI Tour Lab: Automate Model Selection with Model Router",
+    "url": "https://github.com/microsoft/aitour26-LTG153-automate-model-selection-and-ai-app-design-with-microsoft-foundry",
+    "type": "lab",
+    "description": "Lab demonstrating how to use Microsoft Foundry's Model Router for automatic model selection and optimization.",
+    "provider": "Microsoft",
+    "topics": [
+      "model-router",
+      "azure-ai-foundry"
+    ],
+    "episodes": [
+      "s3-e01"
+    ],
+    "dateAdded": "2025-12-01",
+    "featured": true
+  },
+  {
+    "id": "ignite-red-teaming-lab",
+    "title": "Ignite Lab: Safeguard Your Agents with AI Red Teaming",
+    "url": "https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry",
+    "type": "lab",
+    "description": "Hands-on lab for implementing red teaming techniques to secure AI agents and applications.",
+    "provider": "Microsoft",
+    "topics": [
+      "red-teaming",
+      "responsible-ai"
+    ],
+    "episodes": [
+      "s3-e02"
+    ],
+    "dateAdded": "2025-12-08",
+    "featured": true
+  },
+  {
+    "id": "edge-ai-beginners",
+    "title": "Edge AI for Beginners Module 08",
+    "url": "https://github.com/microsoft/edgeai-for-beginners/blob/main/Module08/README.md",
+    "type": "course",
+    "description": "Module from the Edge AI for Beginners curriculum covering local AI deployment.",
+    "provider": "Microsoft",
+    "topics": [
+      "edge-ai"
+    ],
+    "episodes": [
+      "s3-e03"
+    ],
+    "dateAdded": "2025-12-15",
+    "featured": false
+  },
+  {
+    "id": "github-models-marketplace",
+    "title": "GitHub Models Marketplace",
+    "url": "https://github.com/marketplace/models",
+    "type": "tool",
+    "description": "Browser-based playground for exploring and testing models on GitHub.",
+    "provider": "GitHub",
+    "topics": [
+      "github-models"
+    ],
+    "episodes": [
+      "s1-e01"
+    ],
+    "dateAdded": "2025-01-06",
+    "featured": true
+  },
+  {
+    "id": "github-models-codespaces",
+    "title": "GitHub Models Codespaces Template",
+    "url": "https://github.com/github/codespaces-models",
+    "type": "repo",
+    "description": "Codespaces template with hands-on labs for GitHub Models.",
+    "provider": "GitHub",
+    "topics": [
+      "github-models"
+    ],
+    "episodes": [
+      "s1-e01"
+    ],
+    "dateAdded": "2025-01-06",
+    "featured": false
+  },
+  {
+    "id": "openai-transparency-note",
+    "title": "Transparency Note for Azure OpenAI Service",
+    "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-ai/openai/transparency-note",
+    "type": "documentation",
+    "description": "Microsoft's transparency documentation for Azure OpenAI, covering capabilities, limitations, and responsible use.",
+    "provider": "Microsoft",
+    "topics": [
+      "responsible-ai",
+      "azure-openai"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": false
+  },
+  {
+    "id": "anthropic-multi-agent",
+    "title": "Anthropic Multi-Agent Research System",
+    "url": "https://www.anthropic.com/engineering/built-multi-agent-research-system",
+    "type": "blog",
+    "description": "Anthropic's blog post on building multi-agent research systems.",
+    "provider": "External",
+    "topics": [
+      "multi-agent",
+      "reasoning-models"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": false
+  },
+  {
+    "id": "copilot-agent-mode",
+    "title": "Programming with GitHub Copilot Agent Mode",
+    "url": "https://techcommunity.microsoft.com/blog/azuredevcommunityblog/programming-with-github-copilot-agent-mode/4400630",
+    "type": "blog",
+    "description": "Guide to using GitHub Copilot's Agent Mode for autonomous coding tasks.",
+    "provider": "Microsoft",
+    "topics": [
+      "github-copilot",
+      "agents"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": false
+  },
+  {
+    "id": "openai-deep-research",
+    "title": "OpenAI Deep Research",
+    "url": "https://openai.com/index/introducing-deep-research/",
+    "type": "blog",
+    "description": "OpenAI's announcement of Deep Research capabilities for advanced information gathering.",
+    "provider": "External",
+    "topics": [
+      "reasoning-models",
+      "research"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": false
+  },
+  {
+    "id": "lazygraphrag",
+    "title": "LazyGraphRAG: Setting a New Standard",
+    "url": "https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/",
+    "type": "blog",
+    "description": "Microsoft Research's work on optimizing GraphRAG for better quality and cost efficiency.",
+    "provider": "Microsoft",
+    "topics": [
+      "rag",
+      "knowledge-graphs"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": false
+  },
+  {
+    "id": "deepseek-announcement",
+    "title": "Announcing DeepSeek-V3 on Azure AI Foundry and GitHub",
+    "url": "https://techcommunity.microsoft.com/blog/machinelearningblog/announcing-deepseek-v3-on-azure-ai-foundry-and-github/4390438",
+    "type": "blog",
+    "description": "Announcement of DeepSeek-V3 availability on Microsoft platforms.",
+    "provider": "Microsoft",
+    "topics": [
+      "deepseek",
+      "azure-ai-foundry"
+    ],
+    "episodes": [
+      "s1-e01"
+    ],
+    "dateAdded": "2025-01-06",
+    "featured": false
+  },
+  {
+    "id": "foundry-model-inference",
+    "title": "Azure AI Model Inference API",
+    "url": "https://learn.microsoft.com/en-us/azure/machine-learning/reference-model-inference-api",
+    "type": "documentation",
+    "description": "Unified API documentation for interacting with models in Azure AI Foundry.",
+    "provider": "Microsoft",
+    "topics": [
+      "azure-ai-foundry",
+      "api"
+    ],
+    "episodes": [
+      "s1-e01",
+      "s2-e01"
+    ],
+    "dateAdded": "2025-01-06",
+    "featured": true
+  },
+  {
+    "id": "illusion-of-thinking",
+    "title": "Illusion of Thinking (Apple ML Research)",
+    "url": "https://machinelearning.apple.com/research/illusion-of-thinking",
+    "type": "blog",
+    "description": "Apple's research paper on reasoning models and their limitations.",
+    "provider": "External",
+    "topics": [
+      "reasoning-models",
+      "research"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "dateAdded": "2025-06-16",
+    "featured": false
+  }
+]

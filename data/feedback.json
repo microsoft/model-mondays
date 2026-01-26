@@ -1,0 +1,193 @@
+[
+  {
+    "id": "fb-s2e01-001",
+    "episodeId": "s2-ama01",
+    "type": "question",
+    "content": "What are the main differences between OpenAI o-series models and DeepSeek R1? Which should I choose for my use case?",
+    "author": "Community Member",
+    "timestamp": "2025-06-20T14:15:00Z",
+    "status": "answered",
+    "response": "OpenAI o-series models offer more refined reasoning with higher accuracy but at a premium cost. DeepSeek R1 provides excellent cost-effectiveness and is open-source, making it ideal for experimentation and budget-conscious projects. For production applications requiring highest accuracy, o-series is recommended. For research, learning, or cost-sensitive deployments, DeepSeek R1 is excellent.",
+    "tags": [
+      "reasoning-models",
+      "deepseek",
+      "comparison"
+    ],
+    "upvotes": 24
+  },
+  {
+    "id": "fb-s2e01-002",
+    "episodeId": "s2-ama01",
+    "type": "question",
+    "content": "How do I handle the <think> tags in DeepSeek R1 responses? Should I show them to end users?",
+    "author": "Developer_Jane",
+    "timestamp": "2025-06-20T14:32:00Z",
+    "status": "answered",
+    "response": "Generally, you should separate the reasoning process (in <think> tags) from the final answer. Parse the output to extract content outside the tags for user-facing responses. The thinking process can be stored for debugging, evaluation, or shown as an optional 'show reasoning' feature for power users.",
+    "tags": [
+      "deepseek",
+      "implementation",
+      "best-practices"
+    ],
+    "upvotes": 18
+  },
+  {
+    "id": "fb-s2e01-003",
+    "episodeId": "s2-ama01",
+    "type": "question",
+    "content": "Can reasoning models be used with RAG? How does that work?",
+    "author": "AI_Architect_123",
+    "timestamp": "2025-06-20T14:45:00Z",
+    "status": "answered",
+    "response": "Yes! Reasoning models work excellently with RAG. You provide the retrieved context in your prompt, and the reasoning model will use chain-of-thought to analyze and synthesize information from multiple sources. This can significantly reduce hallucinations as the model reasons through the evidence. Consider using GraphRAG or LazyGraphRAG for even better results.",
+    "tags": [
+      "rag",
+      "reasoning-models",
+      "architecture"
+    ],
+    "upvotes": 31
+  },
+  {
+    "id": "fb-s2e01-004",
+    "episodeId": "s2-e01",
+    "type": "suggestion",
+    "content": "Would love to see a follow-up episode on evaluating reasoning models. What metrics should we use?",
+    "author": "ML_Engineer_Pro",
+    "timestamp": "2025-06-16T14:20:00Z",
+    "status": "resolved",
+    "response": "Great suggestion! We're planning a future episode on evaluation strategies. For now, check out Lab333 from Build on evaluating reasoning models: https://aka.ms/discuss/build25-lab333",
+    "tags": [
+      "evaluation",
+      "metrics",
+      "content-request"
+    ],
+    "upvotes": 42
+  },
+  {
+    "id": "fb-s3e01-001",
+    "episodeId": "s3-e01",
+    "type": "question",
+    "content": "Does Model Router support custom models or only the ones in the Foundry catalog?",
+    "author": "Enterprise_Dev",
+    "timestamp": "2025-12-01T14:25:00Z",
+    "status": "answered",
+    "response": "Currently, Model Router works with models available in the Azure AI Foundry catalog. For custom models, you'd need to implement your own routing logic. However, the catalog has 1800+ models including the ability to bring your own models to Foundry, which can then be included in routing decisions.",
+    "tags": [
+      "model-router",
+      "custom-models",
+      "foundry"
+    ],
+    "upvotes": 15
+  },
+  {
+    "id": "fb-s3e01-002",
+    "episodeId": "s3-ama01",
+    "type": "question",
+    "content": "What's the latency overhead of using Model Router compared to calling a model directly?",
+    "author": "Performance_Engineer",
+    "timestamp": "2025-12-05T14:50:00Z",
+    "status": "answered",
+    "response": "Model Router adds minimal latency (typically <50ms) for the routing decision. This is usually negligible compared to model inference time. The cost and performance benefits of optimal model selection typically far outweigh this small overhead.",
+    "tags": [
+      "model-router",
+      "performance",
+      "latency"
+    ],
+    "upvotes": 22
+  },
+  {
+    "id": "fb-s3e02-001",
+    "episodeId": "s3-e02",
+    "type": "comment",
+    "content": "The red teaming demo was excellent! This should be mandatory for all AI deployments.",
+    "author": "Security_First",
+    "timestamp": "2025-12-08T14:35:00Z",
+    "status": "resolved",
+    "response": "Thank you! We agree that red teaming is crucial for production AI systems. Check out the lab for hands-on practice.",
+    "tags": [
+      "red-teaming",
+      "feedback",
+      "positive"
+    ],
+    "upvotes": 28
+  },
+  {
+    "id": "fb-s3e02-002",
+    "episodeId": "s3-ama02",
+    "type": "question",
+    "content": "How often should we run red teaming tests? Is it a one-time thing or continuous?",
+    "author": "DevOps_Lead",
+    "timestamp": "2025-12-12T15:10:00Z",
+    "status": "answered",
+    "response": "Red teaming should be continuous, especially when you update prompts, models, or add new features. Automate tests in your CI/CD pipeline and run comprehensive assessments quarterly or before major releases. The threat landscape evolves, so regular testing is essential.",
+    "tags": [
+      "red-teaming",
+      "devops",
+      "best-practices"
+    ],
+    "upvotes": 19
+  },
+  {
+    "id": "fb-s3e03-001",
+    "episodeId": "s3-e03",
+    "type": "question",
+    "content": "What hardware is recommended for running models locally with Foundry Local?",
+    "author": "Edge_Developer",
+    "timestamp": "2025-12-15T14:40:00Z",
+    "status": "pending",
+    "response": "",
+    "tags": [
+      "edge-ai",
+      "hardware",
+      "foundry-local"
+    ],
+    "upvotes": 16
+  },
+  {
+    "id": "fb-s3e03-002",
+    "episodeId": "s3-ama03",
+    "type": "question",
+    "content": "Can Foundry Local sync model updates automatically from the cloud?",
+    "author": "IoT_Engineer",
+    "timestamp": "2025-12-19T14:55:00Z",
+    "status": "pending",
+    "response": "",
+    "tags": [
+      "edge-ai",
+      "foundry-local",
+      "model-management"
+    ],
+    "upvotes": 12
+  },
+  {
+    "id": "fb-general-001",
+    "episodeId": "s2-e01",
+    "type": "suggestion",
+    "content": "Could you share the slides or presentation deck from the episodes?",
+    "author": "Student_Learner",
+    "timestamp": "2025-06-16T15:00:00Z",
+    "status": "resolved",
+    "response": "Most content is demo-based, but we're working on creating companion materials. In the meantime, all code and labs are linked in the episode recaps!",
+    "tags": [
+      "content-request",
+      "materials"
+    ],
+    "upvotes": 35
+  },
+  {
+    "id": "fb-general-002",
+    "episodeId": "s3-e01",
+    "type": "comment",
+    "content": "Love the new study corner segment! Great way to connect theory with practice.",
+    "author": "Curriculum_Fan",
+    "timestamp": "2025-12-01T15:15:00Z",
+    "status": "resolved",
+    "response": "Thank you! We're excited about the Models for Beginners integration in Season 3.",
+    "tags": [
+      "feedback",
+      "positive",
+      "study-corner"
+    ],
+    "upvotes": 27
+  }
+]

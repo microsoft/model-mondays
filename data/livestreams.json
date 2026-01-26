@@ -1,0 +1,271 @@
+[
+  {
+    "id": "s2-e01",
+    "season": 2,
+    "episode": 1,
+    "title": "Advanced Reasoning Models",
+    "description": "Season 2 kicks off with a deep dive into advanced reasoning models, exploring how models like DeepSeek R1 and Azure OpenAI's o-series are pushing the boundaries of problem-solving and decision-making.",
+    "date": "2025-06-16",
+    "time": "1:30pm ET",
+    "duration": 30,
+    "status": "completed",
+    "host": "nitya-narasimhan",
+    "spotlight": {
+      "title": "Building a Deep Researcher with DeepSeek R1 and LangChain",
+      "description": "Hands-on demonstration of leveraging reasoning models to build intelligent research applications using DeepSeek and LangChain.",
+      "speakers": [
+        "marlene-mhangami"
+      ],
+      "resources": [
+        {
+          "title": "How to use reasoning models with Azure AI Foundry",
+          "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/how-to/use-chat-reasoning",
+          "type": "documentation"
+        },
+        {
+          "title": "Deep Researcher Lab (Build)",
+          "url": "https://aka.ms/build/lab331",
+          "type": "lab"
+        },
+        {
+          "title": "Tutorial: Get started with DeepSeek-R1",
+          "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/tutorials/get-started-deepseek-r1",
+          "type": "documentation"
+        }
+      ]
+    },
+    "customerStory": null,
+    "highlights": [
+      {
+        "title": "Azure AI Foundry Model Catalog Expansion",
+        "url": "https://azure.microsoft.com/blog/",
+        "description": "New models from DeepSeek, XAI, Meta, and Mistral now available under Microsoft service terms."
+      },
+      {
+        "title": "Video Playground Launch",
+        "url": "https://ai.azure.com",
+        "description": "New prompt-to-video generation capability in Azure AI Foundry with exportable code."
+      },
+      {
+        "title": "Model Router GA",
+        "url": "https://learn.microsoft.com/azure/ai-foundry",
+        "description": "Automatic model selection optimizing for cost and performance now generally available."
+      },
+      {
+        "title": "Grok 3 Models Available",
+        "url": "https://azure.microsoft.com",
+        "description": "Grok 3 and Grok 3 Mini with long context and advanced reasoning now in catalog."
+      },
+      {
+        "title": "DeepSeek R1-10528 Release",
+        "url": "https://deepseek.com",
+        "description": "Improved reasoning with hallucination blocking, ideal for agents and co-pilots."
+      }
+    ],
+    "studyCorner": null,
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/25905/",
+      "recording": "https://aka.ms/model-mondays/playlist",
+      "recap": "docs/season-02/recaps/e1-recap.md",
+      "announcement": "docs/season-02/announcements/e1-announce.md",
+      "summary": "docs/season-02/summaries/e01-summary.md"
+    },
+    "tags": [
+      "reasoning",
+      "DeepSeek",
+      "LangChain",
+      "advanced-ai",
+      "chain-of-thought"
+    ]
+  },
+  {
+    "id": "s3-e01",
+    "season": 3,
+    "episode": 1,
+    "title": "Microsoft Foundry Model Router",
+    "description": "What if you could always pick the perfect model, instantly? See Foundry Model Router make split-second decisions that save money and boost performance.",
+    "date": "2025-12-01",
+    "time": "1:30pm ET",
+    "duration": 30,
+    "status": "completed",
+    "host": "nitya-narasimhan",
+    "spotlight": {
+      "title": "Model Router Deep Dive",
+      "description": "Core AI PM Lead Sanjeev Jagtap discusses the GA announcement at Microsoft Ignite and demonstrates real-world applications.",
+      "speakers": [
+        "sanjeev-jagtap"
+      ],
+      "resources": [
+        {
+          "title": "Ignite Theater Session THR722",
+          "url": "https://ignite.microsoft.com/en-US/sessions/THR722",
+          "type": "video"
+        },
+        {
+          "title": "AI Tour Lab: Automate Model Selection",
+          "url": "https://github.com/microsoft/aitour26-LTG153-automate-model-selection-and-ai-app-design-with-microsoft-foundry",
+          "type": "lab"
+        }
+      ]
+    },
+    "customerStory": {
+      "title": "Adobe Document Intelligence",
+      "company": "Adobe",
+      "speakers": [],
+      "description": "How Adobe leverages model routing for document processing at scale."
+    },
+    "highlights": [
+      {
+        "title": "Model Router GA Announcement",
+        "url": "https://ignite.microsoft.com",
+        "description": "Microsoft Foundry Model Router reaches general availability at Ignite 2025."
+      }
+    ],
+    "studyCorner": {
+      "lesson": "L0: Introduction to Models for Beginners",
+      "description": "Overview of the Models for Beginners curriculum and learning path.",
+      "resources": [
+        {
+          "title": "Models for Beginners Curriculum",
+          "url": "https://aka.ms/models-for-beginners"
+        }
+      ]
+    },
+    "links": {
+      "registration": "https://aka.ms/model-mondays/rsvp",
+      "recording": "https://img.youtube.com/vi/zE1tfuPGfFY/hqdefault.jpg",
+      "recap": "",
+      "announcement": "",
+      "summary": ""
+    },
+    "tags": [
+      "model-router",
+      "automation",
+      "cost-optimization",
+      "ignite",
+      "foundry"
+    ]
+  },
+  {
+    "id": "s3-e02",
+    "season": 3,
+    "episode": 2,
+    "title": "Red Teaming for AI Safety",
+    "description": "Learn how to safeguard your AI agents with red teaming techniques and automated adversarial testing in Microsoft Foundry.",
+    "date": "2025-12-08",
+    "time": "1:30pm ET",
+    "duration": 30,
+    "status": "completed",
+    "host": "nitya-narasimhan",
+    "spotlight": {
+      "title": "AI Red Teaming Agent in Microsoft Foundry",
+      "description": "Hands-on exploration of automated red teaming tools and techniques for securing AI applications.",
+      "speakers": [],
+      "resources": [
+        {
+          "title": "Ignite Lab: Safeguard Your Agents",
+          "url": "https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry",
+          "type": "lab"
+        }
+      ]
+    },
+    "customerStory": null,
+    "highlights": [],
+    "studyCorner": {
+      "lesson": "L1: Language Models",
+      "description": "Understanding the fundamentals of large language models and how they work.",
+      "resources": []
+    },
+    "links": {
+      "registration": "https://aka.ms/model-mondays/rsvp",
+      "recording": "",
+      "recap": "",
+      "announcement": "",
+      "summary": ""
+    },
+    "tags": [
+      "red-teaming",
+      "security",
+      "responsible-ai",
+      "ignite",
+      "safety"
+    ]
+  },
+  {
+    "id": "s3-e03",
+    "season": 3,
+    "episode": 3,
+    "title": "Foundry Local: Edge AI Applications",
+    "description": "Explore how to deploy AI models locally and at the edge using Microsoft Foundry Local capabilities.",
+    "date": "2025-12-15",
+    "time": "1:30pm ET",
+    "duration": 30,
+    "status": "completed",
+    "host": "nitya-narasimhan",
+    "spotlight": {
+      "title": "Edge AI for Beginners",
+      "description": "Introduction to deploying models at the edge with hands-on examples and best practices.",
+      "speakers": [],
+      "resources": [
+        {
+          "title": "Edge AI for Beginners Module 08",
+          "url": "https://github.com/microsoft/edgeai-for-beginners/blob/main/Module08/README.md",
+          "type": "documentation"
+        }
+      ]
+    },
+    "customerStory": null,
+    "highlights": [],
+    "studyCorner": {
+      "lesson": "L2: Multimodal Models",
+      "description": "Exploring models that work with text, images, audio, and video.",
+      "resources": []
+    },
+    "links": {
+      "registration": "https://aka.ms/model-mondays/rsvp",
+      "recording": "",
+      "recap": "",
+      "announcement": "",
+      "summary": ""
+    },
+    "tags": [
+      "edge-ai",
+      "local-deployment",
+      "foundry-local",
+      "multimodal"
+    ]
+  },
+  {
+    "id": "s3-e04",
+    "season": 3,
+    "episode": 4,
+    "title": "TBA - Episode 4",
+    "description": "Topic to be announced",
+    "date": "2026-01-12",
+    "time": "1:30pm ET",
+    "duration": 30,
+    "status": "scheduled",
+    "host": "nitya-narasimhan",
+    "spotlight": {
+      "title": "TBA",
+      "description": "",
+      "speakers": [],
+      "resources": []
+    },
+    "customerStory": null,
+    "highlights": [],
+    "studyCorner": {
+      "lesson": "L3: Reasoning Models",
+      "description": "Deep dive into reasoning models and their applications.",
+      "resources": []
+    },
+    "links": {
+      "registration": "https://aka.ms/model-mondays/rsvp",
+      "recording": "",
+      "recap": "",
+      "announcement": "",
+      "summary": ""
+    },
+    "tags": []
+  }
+]

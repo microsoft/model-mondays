@@ -1,0 +1,100 @@
+[
+  {
+    "id": "nitya-narasimhan",
+    "name": "Nitya Narasimhan",
+    "role": "Senior Cloud Advocate",
+    "affiliation": "Microsoft",
+    "profileImage": "assets/people/nitya-narasimhan.jpg",
+    "bio": "Nitya is a Senior Cloud Advocate at Microsoft with a focus on AI and developer experience. She holds a PhD and has extensive experience in mobile and web development.",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/nitya",
+      "twitter": "https://twitter.com/nitya",
+      "github": "https://github.com/nitya",
+      "website": "https://nitya.dev"
+    },
+    "expertise": [
+      "Azure AI",
+      "Machine Learning",
+      "Developer Advocacy",
+      "Mobile Development"
+    ]
+  },
+  {
+    "id": "lee-stott",
+    "name": "Lee Stott",
+    "role": "Senior Cloud Advocate",
+    "affiliation": "Microsoft",
+    "profileImage": "assets/people/lee-stott.jpg",
+    "bio": "Lee is a Senior Cloud Advocate at Microsoft focusing on AI, education, and developer communities.",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": [
+      "Azure AI",
+      "Education",
+      "Community Building"
+    ]
+  },
+  {
+    "id": "marlene-mhangami",
+    "name": "Marlene Mhangami",
+    "role": "Developer Advocate",
+    "affiliation": "Microsoft Python Team",
+    "profileImage": "assets/people/marlene-mhangami.jpg",
+    "bio": "Marlene is a Developer Advocate on the Python team at Microsoft, specializing in AI and machine learning applications with Python.",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": [
+      "Python",
+      "AI/ML",
+      "LangChain",
+      "Reasoning Models"
+    ]
+  },
+  {
+    "id": "sharmila-chockalingam",
+    "name": "Sharmila Chockalingam",
+    "role": "Cloud Advocate",
+    "affiliation": "Microsoft",
+    "profileImage": "assets/people/sharmila-chockalingam.jpg",
+    "bio": "Sharmila is a Cloud Advocate at Microsoft with expertise in Azure AI and cloud-native applications.",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": [
+      "Azure AI",
+      "Cloud Architecture",
+      "AI Applications"
+    ]
+  },
+  {
+    "id": "sanjeev-jagtap",
+    "name": "Sanjeev Jagtap",
+    "role": "Core AI PM Lead",
+    "affiliation": "Microsoft",
+    "profileImage": "assets/people/sanjeev-jagtap.jpg",
+    "bio": "Sanjeev is a Core AI PM Lead at Microsoft, focusing on model routing and AI infrastructure.",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": [
+      "Model Router",
+      "AI Infrastructure",
+      "Product Management",
+      "Azure AI Foundry"
+    ]
+  }
+]

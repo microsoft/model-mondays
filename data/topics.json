@@ -1,0 +1,227 @@
+[
+  {
+    "id": "reasoning-models",
+    "name": "Reasoning Models",
+    "category": "model-types",
+    "description": "Advanced AI models that use chain-of-thought reasoning to solve complex problems step-by-step, including OpenAI o-series, DeepSeek R1, and similar architectures.",
+    "relatedTopics": [
+      "chain-of-thought",
+      "deepseek",
+      "azure-openai"
+    ],
+    "episodes": [
+      "s2-e01",
+      "s3-e04"
+    ],
+    "resources": [
+      "azure-reasoning-docs",
+      "deepseek-tutorial",
+      "lab331-deep-researcher"
+    ],
+    "tags": [
+      "reasoning",
+      "LLM",
+      "advanced-ai"
+    ]
+  },
+  {
+    "id": "model-router",
+    "name": "Model Router",
+    "category": "platforms",
+    "description": "Microsoft Foundry's automatic model selection service that optimizes for cost and performance by routing requests to the most appropriate model.",
+    "relatedTopics": [
+      "azure-ai-foundry",
+      "cost-optimization",
+      "automation"
+    ],
+    "episodes": [
+      "s3-e01"
+    ],
+    "resources": [
+      "aitour-model-router-lab"
+    ],
+    "tags": [
+      "automation",
+      "cost-optimization",
+      "foundry"
+    ]
+  },
+  {
+    "id": "red-teaming",
+    "name": "AI Red Teaming",
+    "category": "practices",
+    "description": "Security testing methodology for AI systems using adversarial techniques to identify vulnerabilities and ensure safe, responsible AI deployment.",
+    "relatedTopics": [
+      "responsible-ai",
+      "security",
+      "safety"
+    ],
+    "episodes": [
+      "s3-e02"
+    ],
+    "resources": [
+      "ignite-red-teaming-lab"
+    ],
+    "tags": [
+      "security",
+      "responsible-ai",
+      "testing"
+    ]
+  },
+  {
+    "id": "edge-ai",
+    "name": "Edge AI",
+    "category": "platforms",
+    "description": "Deploying and running AI models locally or at the edge for improved privacy, reduced latency, and offline capabilities.",
+    "relatedTopics": [
+      "foundry-local",
+      "local-deployment",
+      "multimodal"
+    ],
+    "episodes": [
+      "s3-e03"
+    ],
+    "resources": [
+      "edge-ai-beginners"
+    ],
+    "tags": [
+      "edge",
+      "local",
+      "deployment"
+    ]
+  },
+  {
+    "id": "langchain",
+    "name": "LangChain",
+    "category": "tools",
+    "description": "Framework for developing applications powered by language models, enabling chaining, agents, and complex workflows.",
+    "relatedTopics": [
+      "reasoning-models",
+      "multi-agent",
+      "python"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "resources": [
+      "lab331-deep-researcher"
+    ],
+    "tags": [
+      "framework",
+      "python",
+      "development"
+    ]
+  },
+  {
+    "id": "azure-ai-foundry",
+    "name": "Azure AI Foundry",
+    "category": "platforms",
+    "description": "Microsoft's comprehensive AI development platform offering model catalog, deployment, evaluation, and monitoring capabilities.",
+    "relatedTopics": [
+      "model-router",
+      "model-catalog",
+      "azure"
+    ],
+    "episodes": [
+      "s2-e01",
+      "s3-e01",
+      "s3-e02",
+      "s3-e03"
+    ],
+    "resources": [
+      "azure-reasoning-docs",
+      "foundry-model-inference"
+    ],
+    "tags": [
+      "azure",
+      "platform",
+      "foundry"
+    ]
+  },
+  {
+    "id": "github-models",
+    "name": "GitHub Models",
+    "category": "platforms",
+    "description": "GitHub's model marketplace and playground for exploring, testing, and deploying AI models directly from the GitHub interface.",
+    "relatedTopics": [
+      "model-catalog",
+      "azure-inference-api"
+    ],
+    "episodes": [
+      "s1-e01"
+    ],
+    "resources": [
+      "github-models-marketplace",
+      "github-models-codespaces"
+    ],
+    "tags": [
+      "github",
+      "playground",
+      "catalog"
+    ]
+  },
+  {
+    "id": "multimodal",
+    "name": "Multimodal Models",
+    "category": "model-types",
+    "description": "AI models that can process and generate multiple types of data including text, images, audio, and video.",
+    "relatedTopics": [
+      "vision",
+      "audio",
+      "video"
+    ],
+    "episodes": [
+      "s3-e03"
+    ],
+    "resources": [],
+    "tags": [
+      "multimodal",
+      "vision",
+      "audio"
+    ]
+  },
+  {
+    "id": "responsible-ai",
+    "name": "Responsible AI",
+    "category": "practices",
+    "description": "Principles and practices for developing AI systems that are safe, fair, transparent, and accountable.",
+    "relatedTopics": [
+      "red-teaming",
+      "security",
+      "safety"
+    ],
+    "episodes": [
+      "s3-e02"
+    ],
+    "resources": [
+      "openai-transparency-note"
+    ],
+    "tags": [
+      "ethics",
+      "safety",
+      "governance"
+    ]
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "category": "model-types",
+    "description": "Family of open-source models including DeepSeek V3 and DeepSeek R1, known for cost-effectiveness and strong performance.",
+    "relatedTopics": [
+      "reasoning-models",
+      "open-source"
+    ],
+    "episodes": [
+      "s2-e01"
+    ],
+    "resources": [
+      "deepseek-tutorial",
+      "deepseek-announcement"
+    ],
+    "tags": [
+      "deepseek",
+      "open-source",
+      "reasoning"
+    ]
+  }
+]

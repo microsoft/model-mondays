@@ -1,0 +1,238 @@
+[
+  {
+    "id": "s2-ama01",
+    "season": 2,
+    "episode": 1,
+    "title": "Advanced Reasoning Models AMA",
+    "description": "Join us for an AMA on Advanced Reasoning Models with Marlene Mhangami. Explore how models like DeepSeek R1 and the o-series from Azure OpenAI are pushing the boundaries of problem-solving, research, and decision-making.",
+    "date": "2025-06-20",
+    "time": "1:30pm ET",
+    "duration": 60,
+    "status": "completed",
+    "host": "nitya-narasimhan",
+    "guests": [
+      "marlene-mhangami",
+      "sharmila-chockalingam"
+    ],
+    "topics": [
+      "Reasoning models architecture",
+      "DeepSeek R1 implementation",
+      "Chain-of-thought techniques",
+      "Multi-agent systems",
+      "Knowledge graphs and RAG",
+      "Reducing hallucinations",
+      "Local vs cloud deployment",
+      "Model evaluation strategies"
+    ],
+    "links": {
+      "registration": "https://discord.gg/azureaifoundry?event=1382860017660854372",
+      "recap": "docs/season-02/recaps/e1-recap.md",
+      "announcement": "docs/season-02/announcements/e1-announce.md"
+    },
+    "relatedLivestreamId": "s2-e01",
+    "resources": [
+      {
+        "title": "Azure OpenAI reasoning models",
+        "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/reasoning",
+        "type": "documentation"
+      },
+      {
+        "title": "How to use reasoning models with Azure AI Foundry Models",
+        "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/how-to/use-chat-reasoning",
+        "type": "documentation"
+      },
+      {
+        "title": "Tutorial: Get started with DeepSeek-R1",
+        "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/tutorials/get-started-deepseek-r1",
+        "type": "documentation"
+      },
+      {
+        "title": "Illusion of Thinking (Apple ML Research)",
+        "url": "https://machinelearning.apple.com/research/illusion-of-thinking",
+        "type": "blog"
+      },
+      {
+        "title": "Anthropic Multi-Agent Research System",
+        "url": "https://www.anthropic.com/engineering/built-multi-agent-research-system",
+        "type": "blog"
+      },
+      {
+        "title": "Programming with GitHub Copilot Agent Mode",
+        "url": "https://techcommunity.microsoft.com/blog/azuredevcommunityblog/programming-with-github-copilot-agent-mode/4400630",
+        "type": "blog"
+      },
+      {
+        "title": "OpenAI Deep Research",
+        "url": "https://openai.com/index/introducing-deep-research/",
+        "type": "blog"
+      },
+      {
+        "title": "LazyGraphRAG (Microsoft Research)",
+        "url": "https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/",
+        "type": "blog"
+      }
+    ],
+    "keyTakeaways": [
+      "LRMs are advancing AI's ability to reason and solve complex problems",
+      "GitHub Copilot Agent Mode supports multiple top-tier models and custom integrations",
+      "Deep Researcher tools like DeepSeek-R1 and LangChain enable advanced research workflows",
+      "Multi-agent systems and knowledge graphs can help reduce hallucinations and improve reliability",
+      "Community members are actively experimenting with reasoning models for diverse use cases"
+    ],
+    "tags": [
+      "reasoning",
+      "DeepSeek",
+      "AMA",
+      "LangChain",
+      "multi-agent"
+    ]
+  },
+  {
+    "id": "s3-ama01",
+    "season": 3,
+    "episode": 1,
+    "title": "Model Router AMA",
+    "description": "Ask us anything about the Microsoft Foundry Model Router, including implementation strategies, cost optimization, and real-world use cases.",
+    "date": "2025-12-05",
+    "time": "1:30pm ET",
+    "duration": 60,
+    "status": "completed",
+    "host": "nitya-narasimhan",
+    "guests": [
+      "sanjeev-jagtap"
+    ],
+    "topics": [
+      "Model Router architecture",
+      "Automatic model selection",
+      "Cost optimization strategies",
+      "Performance benchmarking",
+      "Integration with existing applications",
+      "Custom routing rules"
+    ],
+    "links": {
+      "registration": "https://aka.ms/model-mondays/discord",
+      "recap": "",
+      "announcement": ""
+    },
+    "relatedLivestreamId": "s3-e01",
+    "resources": [
+      {
+        "title": "AI Tour Lab: Automate Model Selection",
+        "url": "https://github.com/microsoft/aitour26-LTG153-automate-model-selection-and-ai-app-design-with-microsoft-foundry",
+        "type": "lab"
+      }
+    ],
+    "keyTakeaways": [],
+    "tags": [
+      "model-router",
+      "AMA",
+      "automation",
+      "foundry"
+    ]
+  },
+  {
+    "id": "s3-ama02",
+    "season": 3,
+    "episode": 2,
+    "title": "Red Teaming AMA",
+    "description": "Join us to discuss AI red teaming techniques, security best practices, and how to safeguard your AI applications.",
+    "date": "2025-12-12",
+    "time": "1:30pm ET",
+    "duration": 60,
+    "status": "completed",
+    "host": "nitya-narasimhan",
+    "guests": [],
+    "topics": [
+      "Red teaming fundamentals",
+      "Automated adversarial testing",
+      "Security vulnerabilities in AI",
+      "Responsible AI practices",
+      "Testing frameworks and tools"
+    ],
+    "links": {
+      "registration": "https://aka.ms/model-mondays/discord",
+      "recap": "",
+      "announcement": ""
+    },
+    "relatedLivestreamId": "s3-e02",
+    "resources": [
+      {
+        "title": "Ignite Lab: Safeguard Your Agents",
+        "url": "https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry",
+        "type": "lab"
+      }
+    ],
+    "keyTakeaways": [],
+    "tags": [
+      "red-teaming",
+      "security",
+      "AMA",
+      "responsible-ai"
+    ]
+  },
+  {
+    "id": "s3-ama03",
+    "season": 3,
+    "episode": 3,
+    "title": "Edge AI and Foundry Local AMA",
+    "description": "Discuss edge deployment, local model execution, and the benefits of running AI at the edge.",
+    "date": "2025-12-19",
+    "time": "1:30pm ET",
+    "duration": 60,
+    "status": "completed",
+    "host": "nitya-narasimhan",
+    "guests": [],
+    "topics": [
+      "Edge AI architecture",
+      "Local model deployment",
+      "Performance optimization",
+      "Privacy and security benefits",
+      "Hardware considerations"
+    ],
+    "links": {
+      "registration": "https://aka.ms/model-mondays/discord",
+      "recap": "",
+      "announcement": ""
+    },
+    "relatedLivestreamId": "s3-e03",
+    "resources": [
+      {
+        "title": "Edge AI for Beginners",
+        "url": "https://github.com/microsoft/edgeai-for-beginners",
+        "type": "documentation"
+      }
+    ],
+    "keyTakeaways": [],
+    "tags": [
+      "edge-ai",
+      "AMA",
+      "local-deployment",
+      "foundry-local"
+    ]
+  },
+  {
+    "id": "s3-ama04",
+    "season": 3,
+    "episode": 4,
+    "title": "TBA - AMA Session 4",
+    "description": "Topic to be announced",
+    "date": "2026-01-16",
+    "time": "1:30pm ET",
+    "duration": 60,
+    "status": "scheduled",
+    "host": "nitya-narasimhan",
+    "guests": [],
+    "topics": [],
+    "links": {
+      "registration": "https://aka.ms/model-mondays/discord",
+      "recap": "",
+      "announcement": ""
+    },
+    "relatedLivestreamId": "s3-e04",
+    "resources": [],
+    "keyTakeaways": [],
+    "tags": [
+      "AMA"
+    ]
+  }
+]
