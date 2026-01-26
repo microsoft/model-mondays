@@ -30,52 +30,35 @@ As an AI native engineer, your journey starts with model choice. But with 10K+ m
 
 ## Season 3: Dec 2025 - Apr 2026
 
-With 21 livestream episodes and 31 AMA sessions completed, we now have a well-defined format that has resonated with AI native engineers and decision-makers alike. As we began planning Season 3, we thought about how we could use the platform to support one additional audience: _learners_. 
+In Season 3, we are putting the tech spotlight on [Microsoft Foundry](https://ai.azure.com) and bringing in product group leads and subject matter experts to talk about the unified platform and tech stack that powers the app and agent factory! Season 3 is currently planned for a 16-episode arc going from Dec 2025 to Apr 2026. **In addition to tech spotlights, watch for new customer stories and new segments including Study Corner and Partner Spotlights**.
 
-Over the next four months, we'll end each episode with a look at one lesson or lab from "Models For Beginners" (MFB), the latest addition to our popular _For-Beginners_ curricula. This content is derived from labs and workshops delivered at signature Microsoft events like AI Tour, Build and Ignite - and gives you a structured way to explore and understand Microsoft Foundry features through the lens of a common app scenario and rich developer tools.
 
-**Learn more at our kickoff - and watch for updates throughout the season.**
+![Lineup](./data/assets/livestream/S3-Banner-Linueup.png)
+
+| Ep | Livestream | AMA | Tech Spotlight | Customer Story | Host |
+|:---|:---|:---|:---|:---|:---|
+| 01 | [Dec 01](https://developer.microsoft.com/en-us/reactor/events/26347/) | [Dec 05](https://aka.ms/model-mondays/discord) | [Model Router](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-router?view=foundry) | [Adobe](https://github.com/microsoft/model-mondays/blob/main/docs/Customer-Stories.md#dec-1st-2025-adobe) | Nitya |
+| 02 | [Dec 08](https://developer.microsoft.com/en-us/reactor/events/26577/) | [Dec 12](https://aka.ms/model-mondays/discord) | [Red Teaming](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-red-teaming-agent?view=foundry) | [Ada](https://github.com/microsoft/model-mondays/blob/main/docs/Customer-Stories.md#dec-8th-2025-ada)| Nitya |
+| 03 | [Dec 15](https://developer.microsoft.com/en-us/reactor/events/26578/) | [Dec 19](https://aka.ms/model-mondays/discord)  | [Foundry Local](https://www.foundrylocal.ai/) | [eClinicalWorks](https://github.com/microsoft/model-mondays/blob/main/docs/Customer-Stories.md#dec-15th-2025-eclinicalworks)| Lee |
+|  | ✨✨✨ | ✨✨✨ |  FESTIVE HOLIDAY | ✨✨✨✨✨✨ | ✨✨✨✨✨✨ |
+| 04 | [Jan 12](https://developer.microsoft.com/en-us/reactor/events/26643/) | [Jan 16](https://aka.ms/model-mondays/discord) | [Microsoft Agent Framework](https://learn.microsoft.com/agent-framework/overview/agent-framework-overview) | [InWorld.AI](https://github.com/microsoft/model-mondays/blob/main/docs/Customer-Stories.md#jan-12th-2025-inworldai)| Korey |
+| 05 | [Jan 19 ](https://aka.ms/model-mondays/rsvp)| [Jan 23](https://aka.ms/model-mondays/discord) |  US HOLIDAY  | ✨✨✨✨✨✨ | ✨✨✨✨✨✨ |
+| 06 | [Jan 26](https://aka.ms/model-mondays/rsvp) | [Jan 30](https://aka.ms/model-mondays/discord) |  [Fine Tuning](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/fine-tuning-considerations?view=foundry) & [Responses API](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/responses?view=foundry&tabs=python-key) | [Relativity](https://github.com/microsoft/model-mondays/blob/main/docs/Customer-Stories.md#jan-26th-2025-relativity) | Bethany |
+| 07 | [Feb 02](https://aka.ms/model-mondays/rsvp) | [Feb 06](https://aka.ms/model-mondays/discord) |  [Synthetic Data Generation](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/responses?view=foundry&tabs=python-key) | | Bethany |
+| 08 | [Feb 09](https://aka.ms/model-mondays/rsvp) | [Feb 13](https://aka.ms/model-mondays/discord) |  [Next-Gen UI Experiences](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-foundry?view=foundry#microsoft-foundry-portals) | | Nitya|
+| 09 | [Feb 16](https://aka.ms/model-mondays/rsvp) | [Feb 20](https://aka.ms/model-mondays/discord) |  [Research Models](https://labs.ai.azure.com/) | | Nitya|
+| 10 | [Feb 23](https://aka.ms/model-mondays/rsvp) | [Feb 27](https://aka.ms/model-mondays/discord) |  [Microsoft Foundry Agents](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/overview?view=foundry) | | Carlotta|
+| 11 | [Mar 02](https://aka.ms/model-mondays/rsvp) | [Mar 06](https://aka.ms/model-mondays/discord) |  [Foundry Control Plane](https://learn.microsoft.com/en-us/azure/ai-foundry/control-plane/overview?view=foundry) | | Nitya |
+| 12 | [Mar 09](https://aka.ms/model-mondays/rsvp) | [Mar 13](https://aka.ms/model-mondays/discord) |  [AI Developer Experience](https://learn.microsoft.com/en-us/windows/ai/toolkit/) | | April |
+| 13 | [Mar 16](https://aka.ms/model-mondays/rsvp) | [Mar 20](https://aka.ms/model-mondays/discord) |  [Foundry IQ](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/knowledge-retrieval?view=foundry&tabs=foundry%2Cpython) | | Carlotta |
+| 14 | [Mar 23](https://aka.ms/model-mondays/rsvp) | [Mar 27](https://aka.ms/model-mondays/discord) |  [Foundry Tools](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services?view=foundry) | | (Lee/Carlotta) |
+| 15 | [Mar 30](https://aka.ms/model-mondays/rsvp) | [Apr 03](https://aka.ms/model-mondays/discord) |  [Agent 365 & Identity](https://www.microsoft.com/en-us/microsoft-agent-365) | | Korey |
+| 16 |[Apr 06](https://aka.ms/model-mondays/rsvp) | [Apr 10](https://aka.ms/model-mondays/discord) |  [GitHub Agentic Workflows](https://githubnext.github.io/gh-aw/) | | Korey |
+| | | | | | |
+
+With 21 livestream episodes and 31 AMA sessions completed, we now have a well-defined format that has resonated with AI native engineers and decision-makers alike. As we began planning Season 3, we thought about how we could use the platform to support one additional audience: _learners and partners_. In 2026, look for new segments like _Partner Spotlights_ featuring model providers, and _Study Corner_ showcasing self-guided labs and curricula for skilling.
 
 ![CTA](./data/assets/misc/model-mondays-s3.png)
-
-
-
-### Season 3: This Week 
-
-|   | EP 01: Microsoft Foundry model router|
-|:---|:---|
-| Dec 01 - 1:30pm ET | [Register for Livestream](https://aka.ms/model-mondays/rsvp) |
-| Dec 05 - 1:30pm ET | [Join Discord for AMA](https://aka.ms/model-mondays/discord)|
-|  ![Thumbnail](https://img.youtube.com/vi/zE1tfuPGfFY/hqdefault.jpg)| What if you could always pick the perfect model, instantly? See Foundry Model Router make split-second decisions that save money and boost performance. We talk to Core AI PM Lead Sanjeev Jagtap about the GA announcement at Microsoft Ignite - and revisit demos from his [theater session](https://ignite.microsoft.com/en-US/sessions/THR722?source=bookofnews) there. |
-
-
-
-### Season 3: Full Schedule
-
-The main schedule for Season 3 will kickoff in January 2026, after the holiday break. However, we decided to do a short 3-episode "pre-season" opener in December 2025 to showcase key announcements from [Microsoft Ignite](https://ignite.microsoft.com/sessions) and give your resources to explore over the holidays.
-
-**Watch this space for schedule updates and click the links to register for livestream and AMA sessions**.
-
-| Ep | Livestream | AMA | Tech Spotlight | Customer Story | Study Corner |
-|:---|:---|:---|:---|:---|:---|
-| 01 | [Dec 01](https://aka.ms/model-mondays/rsvp) | [Dec 05](https://aka.ms/model-mondays/discord) | [Model Router](https://github.com/microsoft/aitour26-LTG153-automate-model-selection-and-ai-app-design-with-microsoft-foundry) | Adobe Doc | L0: Introduction |
-| 02 | [Dec 08](https://aka.ms/model-mondays/rsvp) | [Dec 12](https://aka.ms/model-mondays/discord) | [Red Teaming](https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry) | |  L1: Language Models |
-| 03 | [Dec 15](https://aka.ms/model-mondays/rsvp) | [Dec 19](https://aka.ms/model-mondays/discord)  | [Foundry Local](https://github.com/microsoft/edgeai-for-beginners/blob/main/Module08/README.md) | |  L2: Multimodal Models |
-| -- | 🎄🎄🎄 | --- |  HOLIDAY BREAK | --- | 🎄🎄🎄 |
-| 04 | Jan 12 | Jan 16 |  TBA | | L3: Reasoning Models |
-| 05 | Jan 19 | Jan 23 |  TBA | | L4: Smart Models |
-| 06 | Jan 26 | Jan 30 |  TBA | | L5: Cards & Catalogs |
-| 07 | Feb 02 | Feb 06 |  TBA | | L6: Benchmarks & Leaderboards |
-| 08 | Feb 09 | Feb 13 |  TBA | | L7: Playgrounds & Portals |
-| 09 | Feb 16 | Feb 20 |  TBA | | L8: Graders & Simulators |
-| 10 | Feb 23 | Feb 27 |  TBA | | L9: Context Engineering |
-| 11 | Mar 02 | Mar 06 |  TBA | | L10: Model Customization |
-| 12 | Mar 09 | Mar 13 |  TBA | | L11: Model Distillation |
-| 13 | Mar 16 | Mar 20 |  TBA | | L12: Model Deployment |
-| 14 | Mar 23 | Mar 27 |  TBA | | L13: Evaluation & Metrics |
-| 15 | Mar 30 | Apr 03 |  TBA | | L14: Red-Teaming & Reports |
-| 16 | Apr 06 | Apr 10 |  TBA | | L15: Tracing & Monitoring |
-| | | | | | |
 
 
 <br/>
