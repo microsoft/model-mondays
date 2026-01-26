@@ -28,4 +28,4 @@ Did you know Azure AI Foundry offers access to thousands of open source models, 
 
 ---
 
-![Banner](../img/S2-E13.png)
+![Banner](../../../data/assets/livestream/S2-E13.png)

@@ -28,4 +28,4 @@ Ready to streamline your AI development workflow? This session highlights the la
 
 ---
 
-![Banner](../img/S2-E4-AMA.png)
+![Banner](../../../data/assets/livestream/S2-E4-AMA.png)

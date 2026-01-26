@@ -14,7 +14,7 @@ In this episode, Jeff Boudier (VP of Product at Hugging Face) walks us through t
 - [Visit the Forum](https://aka.ms/model-mondays/forum) to view recaps after the event
 - [Subscribe to the Newsletter](https://aka.ms/model-mondays/newsletter) for regular Model Mondays updates
 
-![Spotlight](./../../docs/season-02/img/S2-E13.png)
+![Spotlight](../../data/assets/livestream/S2-E13.png)
 
 ---
 

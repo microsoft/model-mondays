@@ -13,7 +13,7 @@ We are currently under way for Season 2 with a scheduled 12-episode series. Some
  - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/55) - Discussion Forum
  - 4️⃣ | [Download Slides](https://speakerdeck.com/nitya/model-mondays-s2e01-advanced-reasoning) - Speakerdeck PDF
 
-![Banner](./img/S2-E1.png)
+![Banner](../../data/assets/livestream/S2-E1.png)
 
 ---
 
@@ -28,7 +28,7 @@ We are currently under way for Season 2 with a scheduled 12-episode series. Some
  - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/54) - Discussion Forum
  - 4️⃣ | [Download Slides](https://speakerdeck.com/nitya/model-mondays-s2e02-model-context-protocol) - Speakerdeck PDF
 
-![Banner](./img/S2-E2.png)
+![Banner](../../data/assets/livestream/S2-E2.png)
 
 ---
 
@@ -43,7 +43,7 @@ We are currently under way for Season 2 with a scheduled 12-episode series. Some
  - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/76) - Discussion Forum
  - 4️⃣ | [Download Slides](https://speakerdeck.com/nitya/model-mondays-s2e03-slms-and-reasoning) - Speakerdeck 
 
-![Banner](./img/S2-E3.png)
+![Banner](../../data/assets/livestream/S2-E3.png)
 
 ---
 
@@ -57,7 +57,7 @@ We are currently under way for Season 2 with a scheduled 12-episode series. Some
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
  - 4️⃣ | [Download Slides](https://speakerdeck.com/nitya/model-mondays-s2e04-ai-developer-experiences) - Speakerdeck PDF
 
-![Banner](./img/S2-E4.png)
+![Banner](../../data/assets/livestream/S2-E4.png)
 
 ---
 
@@ -71,7 +71,7 @@ We are currently under way for Season 2 with a scheduled 12-episode series. Some
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382862245721014476) - Jul 18, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E5.png)
+![Banner](../../data/assets/livestream/S2-E5.png)
 
 ---
 
@@ -87,7 +87,7 @@ We are currently under way for Season 2 with a scheduled 12-episode series. Some
  - 2️⃣ | [Register For The AMA](https://discord.gg/D7bAFEwj?event=1382862595849064548) - Jul 25, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E6.png)
+![Banner](../../data/assets/livestream/S2-E6.png)
 
 ### CUSTOMER STORIES: Capacity
 
@@ -99,7 +99,7 @@ _Steve Frederickson_ is Head of Product for Capacity’s Answer Engine, where he
 
 _Zachary Meierhofer_ is a product manager with a passion for turning complex AI into intuitive solutions. At Capacity, he builds tools that help teams access knowledge instantly and deliver smarter support. With over a decade of experience in AI and search, he blends technical depth with a strong focus on user impact.  
 
-![Banner](./img/S2-E6-CustomerStories.png)
+![Banner](../../data/assets/livestream/S2-E6-CustomerStories.png)
 
 ---
 
@@ -113,7 +113,7 @@ _Zachary Meierhofer_ is a product manager with a passion for turning complex AI 
  - 2️⃣ | [Register For The AMA](https://aka.ms/model-mondays/chat) - Jul 31, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E7.png)
+![Banner](../../data/assets/livestream/S2-E7.png)
 
 ### CUSTOMER STORIES: SightMachine
 
@@ -123,7 +123,7 @@ _In this new segment, we continue talking to customers about real world usage of
 
 _Kurt DeMaagd_ is is Chief AI Officer and Co-founder at Sight Machine. He has developed AI agents and ML applications for manufacturing predictive maintenance, prescriptive energy optimization and waste reduction, decision support tools for quality, and schedule optimization. Kurt has presented on manufacturing AI/ML at conferences such as the Microsoft Ignite, NVIDIA GTC, Qatar Economic Forum, Automate, the American Society for Quality, multiple presentations at the ASQ Statistic Division conference, plus 30+ academic publications. Previously, Kurt was a professor at Michigan State University. He has a Ph.D. in Business Administration from the University of Michigan, Ross School of Business; and a BS in Computer Science from Hope College..
 
-![Banner](./img/S2-E7-CustomerStories.png)
+![Banner](../../data/assets/livestream/S2-E7-CustomerStories.png)
 
 ---
 
@@ -137,7 +137,7 @@ _Kurt DeMaagd_ is is Chief AI Officer and Co-founder at Sight Machine. He has de
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382863345777901670) - Aug 08, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E8.png)
+![Banner](../../data/assets/livestream/S2-E8.png)
 
 ### CUSTOMER STORIES: Xander
 
@@ -149,7 +149,7 @@ _Marilyn Morgan Westner_ is is Chief Experience Officer (CXO) and Co-founder at 
 
 _Alex Westner_ is is Chief Executive Officer (CEO) and Co-founder at Xander. Alex spent 20+ years leading product strategy at iZotope, Gibson, and Fidelity Labs, Fidelity Investments' innovation incubator. He began his career in engineering, focused on microphone arrays and the “cocktail party problem.” At the MIT Media Lab he trained computers to differentiate individual voices from other sounds. He spent 18 years as a product leader in audio and music technology companies, where he developed and shipped software products that analyzed and separated sound and speech. He led several successful audio products including iZotope RX, which won an Engineering Emmy Award. In 2018, he became a product leader at Fidelity Labs. Working in fintech, he gained experience protecting online privacy and led a team that successfully developed and launched a software platform that helped financial advisors introduce sustainable investing practices to their clients.
 
-![Banner](./img/S2-E8-CustomerStories.png)
+![Banner](../../data/assets/livestream/S2-E8-CustomerStories.png)
 
 ---
 
@@ -163,7 +163,7 @@ _Alex Westner_ is is Chief Executive Officer (CEO) and Co-founder at Xander. Ale
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382863654961025174) - Aug 15, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E9.png)
+![Banner](../../data/assets/livestream/S2-E9.png)
 
 ### CUSTOMER STORIES: Atomicwork
 
@@ -173,7 +173,7 @@ _In this ongoing segment, we continue talking to customers about real world usag
 
 _Sukrit Chatterjee_ is an AI Research Engineer at Atomicwork, designing integrated AI systems that learn from their environment and adapt to task context. With a background in applied AI and system integration, he works at the intersection of research and engineering to advance agentic, context-aware applications.
 
-![Banner](./img/S2-E9-CustomerStories.png)
+![Banner](../../data/assets/livestream/S2-E9-CustomerStories.png)
 
 ---
 
@@ -187,7 +187,7 @@ _Sukrit Chatterjee_ is an AI Research Engineer at Atomicwork, designing integrat
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382864122902745228) - Aug 22, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E10.png)
+![Banner](../../data/assets/livestream/S2-E10.png)
 
 ### CUSTOMER STORIES: Oracle
 
@@ -197,7 +197,7 @@ _Keeping in with today's theme, we're sharing a prior session with Srinivas Gadd
 
 _Sri Gadde_ is a seasoned technology leader with over 15 years of experience in AI-driven software development. As Senior Director of Software Development at Oracle, he leads efforts in conversational AI and AI-powered clinical workflows—advancing healthcare efficiency and patient safety through cutting-edge modeling techniques and responsible AI practices.
 
-![Banner](./img/S2-E10-CustomerStories.png)
+![Banner](../../data/assets/livestream/S2-E10-CustomerStories.png)
 
 ---
 
@@ -211,7 +211,7 @@ _Sri Gadde_ is a seasoned technology leader with over 15 years of experience in 
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382864441191960696) - Aug 29, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E11.png)
+![Banner](../../data/assets/livestream/S2-E11.png)
 
 ### CUSTOMER STORIES: Healow
 
@@ -221,7 +221,7 @@ _Keeping in with today's theme, we're sharing a prior BUILD 2025 session with Si
 
 _Sidd Shah_, Vice President at healow, leads consumer engagement tech with 20+ years in health IT, product strategy, business growth and transformative healthcare solutions.
 
-![Banner](./img/S2-E11-CustomerStories.png)
+![Banner](../../data/assets/livestream/S2-E11-CustomerStories.png)
 
 ---
 
@@ -235,7 +235,7 @@ _Sidd Shah_, Vice President at healow, leads consumer engagement tech with 20+ y
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382864811649536120) - Sep 12, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E12.png)
+![Banner](../../data/assets/livestream/S2-E12.png)
 
 ### CUSTOMER STORIES: Saifr
 
@@ -251,7 +251,7 @@ _Brett Trainor_ is the Head of Partners of Saifr, a Fidelity Labs Company.
 
 Over a 16-year career at Fortune 100, Fortune 500, and industry leaders such as Liberty Mutual, State Street and most recently at Fidelity Investments, Brett has held key roles across Risk, Compliance, Strategic Negotiations/Procurement and Enterprise Relationship Management. With a customer first mindset, Brett looks to drive value and solutions at scale through tightly aligned strategic partnerships. Brett holds an MBA from Northeastern University’s D’Amore-McKim School of Business.
 
-![Banner](./img/S2-E12-CustomerStories.png)
+![Banner](../../data/assets/livestream/S2-E12-CustomerStories.png)
 
 ---
 
@@ -267,7 +267,7 @@ Did you know the Hugging Face collection on Azure AI Foundry Models currently ha
  - 2️⃣ | [Register For The AMA](https://discord.gg/Z8JZsrP5P5?event=1414657387062628442) - Sep 19, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
-![Banner](./img/S2-E13.png)
+![Banner](../../data/assets/livestream/S2-E13.png)
 ### CUSTOMER STORIES: DraftWise
 
 _In this episode we're sharing a BUILD 2025 segment from James Ding, CEO and Co-founder at DraftWise, sharing how AI models are revolutionizing legal contracting!_.
@@ -278,5 +278,5 @@ _James Ding_ is the CEO and co-founder of DraftWise, an AI contract drafting, re
 
 Before founding DraftWise, James led product teams at Palantir, building AI and big data solutions for clients in manufacturing, finance, and cybersecurity. He is an inventor with multiple patents in data security, machine learning, and cloud computing.
 
-![Banner](./img/S2-E13-CustomerStories.png)
+![Banner](../../data/assets/livestream/S2-E13-CustomerStories.png)
 ---

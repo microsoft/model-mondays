@@ -28,4 +28,4 @@ Want to bring the power of AI-assisted development to Azure workflows? Join us a
 
 ---
 
-![Banner](../img/S2-E7.png)
+![Banner](../../../data/assets/livestream/S2-E7.png)

@@ -27,4 +27,4 @@ Want to prototype visual and video-based generative AI apps? This session featur
 
 ---
 
-![Banner](../img/S2-E10.png)
+![Banner](../../../data/assets/livestream/S2-E10.png)

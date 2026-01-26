@@ -28,4 +28,4 @@ Unlock the secrets of advanced reasoning in AI! This session will explore how mo
 
 ---
 
-![Banner](../img/S2-E1-AMA.png)
+![Banner](../../../data/assets/livestream/S2-E1-AMA.png)

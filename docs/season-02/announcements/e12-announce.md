@@ -28,4 +28,4 @@ How do you ensure your AI models are trustworthy and high-performing? This sessi
 
 ---
 
-![Banner](../img/S2-E12.png)
+![Banner](../../../data/assets/livestream/S2-E12.png)

@@ -27,4 +27,4 @@ Curious about customizing AI models for your unique needs? This session explores
 
 ---
 
-![Banner](../img/S2-E5.png)
+![Banner](../../../data/assets/livestream/S2-E5.png)

@@ -28,4 +28,4 @@ Curious about how to extend your AI models and agents with powerful new capabili
 
 ---
 
-![Banner](../img/S2-E2-AMA.png)
+![Banner](../../../data/assets/livestream/S2-E2-AMA.png)

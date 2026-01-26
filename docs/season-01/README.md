@@ -1,6 +1,6 @@
 # Model Mondays: Season 1
 
-![Spotlights](./img/Model-Mondays-Season2.png)
+![Spotlights](../../data/assets/livestream/Model-Mondays-Season2.png)
 
 ## S1E8 · Forecasting Models
 
@@ -8,7 +8,7 @@
 
 > In this episode, we’ll speak to Khuyen Tran (Developer Advocate, Nixtla) and put the spotlight on forecasting models (like Nixtal TimeGEN-1) that are trained on time-series data and applicable to scenarios in retail, healthcare, finance and more.
 
-[![Banner](./../season-01/img/S1E8-spotlight.png)](https://aka.ms/model-mondays/playlist)
+[![Banner](../../data/assets/livestream/S1E8-spotlight.png)](https://aka.ms/model-mondays/playlist)
 
 <br/> 
 
@@ -18,7 +18,7 @@
 
 > In this episode, we’ll explore the intersection of open-source with AI model and application development with a spotlight on the Meta Llama 4 herd of models.
 
-[![Banner](./../season-01/img/S1E7-spotlight.png)](https://aka.ms/model-mondays/playlist)
+[![Banner](../../data/assets/livestream/S1E7-spotlight.png)](https://aka.ms/model-mondays/playlist)
 
 <br/> 
 
@@ -28,7 +28,7 @@
 
 > In this episode, we’ll go hands on with local AI development by putting the spotlight on the AI Toolkit for Visual Studio Code. Join us as we speak to Rong Lu (Principal PM, Microsoft) to learn how this tool helps developers build intelligent apps using generative AI models deployed locally or in the cloud -with support for development, testing, fine-tuning and more.
 
-[![Banner](./../season-01/img/S1E6-spotlight.png)](https://www.youtube.com/watch?v=MgIfvEEZN7o)
+[![Banner](../../data/assets/livestream/S1E6-spotlight.png)](https://www.youtube.com/watch?v=MgIfvEEZN7o)
 
 
 <br/>
@@ -39,7 +39,7 @@
 
 > In this episode, we dive into the word of fine-tuning for AI model customization and put the spotlight on the Mistral collection in the Azure AI Foundry model catalog. We’ll discuss how it works, when to use it, and the tradeoffs to know when choosing this option. And we talk about workflow and best practices for performant fine-tuning on Azure.
 
-[![Banner](./../season-01/img/S1E5-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
+[![Banner](../../data/assets/livestream/S1E5-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
 
 <br/>
 
@@ -49,7 +49,7 @@
 
 In this episode, we are joined by Ken Hoge from Stability AI. Find out how their models enable visual generative AI applicatons with text-to-image and image-to-image capabiltiies, for delivering high-resolution and representative imagery.
 
-[![Banner](./../season-01/img/S1E4-spotlight.png)](https://developer.microsoft.com/en-us/reactor/events/25355/)
+[![Banner](../../data/assets/livestream/S1E4-spotlight.png)](https://developer.microsoft.com/en-us/reactor/events/25355/)
 
 <br/>
 
@@ -59,7 +59,7 @@ In this episode, we are joined by Ken Hoge from Stability AI. Find out how their
 
 In this episode, we are joined by Neel Gokhale from Cohere. Find out how reranking improves relevance of search results for Retrieval Augmented Generation, and see a hands-on demo with the Cohere Rerank v3.5 model.
 
-[![Banner](./../season-01/img/S1E3-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
+[![Banner](../../data/assets/livestream/S1E3-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
 
 <br/>
 
@@ -69,7 +69,7 @@ In this episode, we are joined by Neel Gokhale from Cohere. Find out how reranki
 
 In this episode, we are joined by Jennifer Marsman from Microsoft. Find out what reasoning models are, and why they are taking the AI world by storm. See a hands-on demo with the OpenAI o1 model and a real-world use case.
 
-[![Banner](./../season-01/img/S1E2-spotlight.png)](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
+[![Banner](../../data/assets/livestream/S1E2-spotlight.png)](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
 
 <br/>
 
@@ -79,7 +79,7 @@ In this episode, we are joined by Jennifer Marsman from Microsoft. Find out what
 
 In this episode, we are joined by Nitya Narasimhan from Microsoft. Find out what GitHub Models are and how they can help you jumpstart your generative AI learning journey for free, with just your GitHub account. Make GitHub Models your AI learning sandbox!
 
-[![Banner](./../season-01/img/S1E1-spotlight.png)](https://www.youtube.com/watch?v=dohvGc7eyqU&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=3&pp=iAQB)
+[![Banner](../../data/assets/livestream/S1E1-spotlight.png)](https://www.youtube.com/watch?v=dohvGc7eyqU&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=3&pp=iAQB)
 
 <br/>
 

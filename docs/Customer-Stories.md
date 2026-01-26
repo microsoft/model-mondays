@@ -11,7 +11,7 @@ _Steve Frederickson_ is Head of Product for Capacity’s Answer Engine, where he
 
 _Zachary Meierhofer_ is a product manager with a passion for turning complex AI into intuitive solutions. At Capacity, he builds tools that help teams access knowledge instantly and deliver smarter support. With over a decade of experience in AI and search, he blends technical depth with a strong focus on user impact.  
 
-![Banner](./season-02/img/S2-E6-CustomerStories.png)
+![Banner](../data/assets/livestream/S2-E6-CustomerStories.png)
 
 ### Jul 28th 2025: SightMachine
 
@@ -21,7 +21,7 @@ In this new segment, we continue talking to customers about real world usage of 
 
 _Kurt DeMaagd_ is is Chief AI Officer and Co-founder at Sight Machine. He has developed AI agents and ML applications for manufacturing predictive maintenance, prescriptive energy optimization and waste reduction, decision support tools for quality, and schedule optimization. Kurt has presented on manufacturing AI/ML at conferences such as the Microsoft Ignite, NVIDIA GTC, Qatar Economic Forum, Automate, the American Society for Quality, multiple presentations at the ASQ Statistic Division conference, plus 30+ academic publications. Previously, Kurt was a professor at Michigan State University. He has a Ph.D. in Business Administration from the University of Michigan, Ross School of Business; and a BS in Computer Science from Hope College.
 
-![Banner](./season-02/img/S2-E7-CustomerStories.png)
+![Banner](../data/assets/livestream/S2-E7-CustomerStories.png)
 
 ### Aug 04th 2025: Xander
 
@@ -33,7 +33,7 @@ _Marilyn Morgan Westner_ is is Chief Experience Officer (CXO) and Co-founder at 
 
 _Alex Westner_ is is Chief Executive Officer (CEO) and Co-founder at Xander. Alex spent 20+ years leading product strategy at iZotope, Gibson, and Fidelity Labs, Fidelity Investments' innovation incubator. He began his career in engineering, focused on microphone arrays and the “cocktail party problem.” At the MIT Media Lab he trained computers to differentiate individual voices from other sounds. He spent 18 years as a product leader in audio and music technology companies, where he developed and shipped software products that analyzed and separated sound and speech. He led several successful audio products including iZotope RX, which won an Engineering Emmy Award. In 2018, he became a product leader at Fidelity Labs. Working in fintech, he gained experience protecting online privacy and led a team that successfully developed and launched a software platform that helped financial advisors introduce sustainable investing practices to their clients.
 
-![Banner](./season-02/img/S2-E8-CustomerStories.png)
+![Banner](../data/assets/livestream/S2-E8-CustomerStories.png)
 
 ### Aug 11th 2025: Atomicwork
 
@@ -43,7 +43,7 @@ In this ongoing segment, we continue talking to customers about real world usage
 
 _Sukrit Chatterjee_ is an AI Research Engineer at Atomicwork, designing integrated AI systems that learn from their environment and adapt to task context. With a background in applied AI and system integration, he works at the intersection of research and engineering to advance agentic, context-aware applications.
 
-![Banner](./season-02/img/S2-E9-CustomerStories.png)
+![Banner](../data/assets/livestream/S2-E9-CustomerStories.png)
 
 ### Aug 18th 2025: Oracle
 
@@ -53,7 +53,7 @@ _Keeping in with today's theme, we're sharing a prior session with Srinivas Gadd
 
 _Sri Gadde_ is a seasoned technology leader with over 15 years of experience in AI-driven software development. As Senior Director of Software Development at Oracle, he leads efforts in conversational AI and AI-powered clinical workflows—advancing healthcare efficiency and patient safety through cutting-edge modeling techniques and responsible AI practices.
 
-![Banner](./season-02/img/S2-E10-CustomerStories.png)
+![Banner](../data/assets/livestream/S2-E10-CustomerStories.png)
 
 ### Aug 25th 2025: Healow
 
@@ -63,7 +63,7 @@ _Keeping in with today's theme, we're sharing a prior BUILD 2025 session with Si
 
 _Sidd Shah_, Vice President at healow, leads consumer engagement tech with 20+ years in health IT, product strategy, business growth and transformative healthcare solutions.
 
-![Banner](./season-02/img/S2-E11-CustomerStories.png)
+![Banner](../data/assets/livestream/S2-E11-CustomerStories.png)
 
 ### Sep 08th 2025: Saifr
 
@@ -79,7 +79,7 @@ _Brett Trainor_ is the Head of Partners of Saifr, a Fidelity Labs Company.
 
 Over a 16-year career at Fortune 100, Fortune 500, and industry leaders such as Liberty Mutual, State Street and most recently at Fidelity Investments, Brett has held key roles across Risk, Compliance, Strategic Negotiations/Procurement and Enterprise Relationship Management. With a customer first mindset, Brett looks to drive value and solutions at scale through tightly aligned strategic partnerships. Brett holds an MBA from Northeastern University’s D’Amore-McKim School of Business.
 
-![Banner](./season-02/img/s2-e12-CustomerStories.png)
+![Banner](../data/assets/livestream/S2-E12-CustomerStories.png)
 
 ### Sep 15th 2025: DraftWise
 
@@ -91,13 +91,13 @@ _James Ding_ is the CEO and co-founder of DraftWise, an AI contract drafting, re
 
 Before founding DraftWise, James led product teams at Palantir, building AI and big data solutions for clients in manufacturing, finance, and cybersecurity. He has invented multiple patents in data security, machine learning, and cloud computing.
 
-![Banner](./season-02/img/S2-E13-CustomerStories.png)
+![Banner](../data/assets/livestream/S2-E13-CustomerStories.png)
 
 ### Dec 1st 2025: Adobe
 
 _In this episode we're sharing a Ignite 2025 segment from Nikhil Kumar, Director of Software Development at Adobe, who discusses how new Microsoft Foundry features like Priority Processing are crucial in real-world AI applications to handle load spikes seamlessly!_.
 
-![Banner](./season-02/img/S3-01-Customer-Stories.png)
+![Banner](../data/assets/livestream/S3-01-Customer-Stories.png)
 
 ### Dec 8th 2025: Ada
 
@@ -109,7 +109,7 @@ _Mike Gozzo_ is the Chief Product & Technology Officer at Ada, where he leads AI
 
 A seasoned entrepreneur and angel investor, he co-founded Smooch.io, a company that transformed business-consumer messaging before being acquired by Zendesk in 2019. At Zendesk, he served as SVP of Product Management, overseeing global product and R&D operations. Recognized as one of Quebec's top emerging entrepreneurs, Gozzo continues to mentor and invest in Canadian tech startups while supporting educational and elder-focused charities through his family foundation. He holds a Bachelor's in Electrical Engineering and an MBA in Finance and Strategy from Concordia University's John Molson School of Business. Outside of work, he enjoys cycling, food, and family time, alongside his active role in nurturing early-stage ventures in Canada.
 
-![Banner](./season-02/img/s3-e02-customer-stories.png)
+![Banner](../data/assets/livestream/s3-e02-customer-stories.png)
 
 ### Dec 15th 2025: eClinicalWorks
 
@@ -121,7 +121,7 @@ _Rakhee Langer_ is a results-driven leader with over 20 years of experience in h
 
 With a Master’s in Biomedical Engineering, Rakhee brings strong analytical and problem-solving capabilities that fuel growth, foster innovation, and deepen customer engagement.
 
-![Banner](./season-02/img/s3-e03-customer-stories.png)
+![Banner](../data/assets/livestream/s3-e03-customer-stories.png)
 
 ### Jan 12th 2025: InWorld.AI
 
@@ -131,7 +131,7 @@ _In this episode we're joined by Cale Shapera, Staff Product Engineer at Inworld
 
 _Cale Shapera_ is a Staff Product Engineer at Inworld AI. With a background in anthropology, education, and information architecture, he has been building large-scale conversational AI experiences since 2019.
 
-![Banner](./season-02/img/s3-e04-customer-stories.png)
+![Banner](../data/assets/livestream/s3-e04-customer-stories.png)
 
 ### Jan 26th 2025: Relativity
 
@@ -141,5 +141,5 @@ _In this episode we're sharing a Ignite 2025 segment from John Banta, Vice Presi
 
 _John Banta_ is Vice President of Product at Relativity, where he leads the AI and Data Platform product teams driving innovation in Legal Data Intelligence. With over 25 years of experience spanning product management and engineering, John has a proven record of building transformative solutions that simplify complex workflows and enhance user experience across B2C, B2B, and SaaS applications. His leadership focuses on harnessing AI to empower legal and compliance professionals to uncover insights faster, work smarter, and deliver greater impact.
 
-![Banner](./season-02/img/s3-e06-customer-stories.png)
+![Banner](../data/assets/livestream/s3-e06-customer-stories.png)
 ---

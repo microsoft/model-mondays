@@ -28,7 +28,7 @@ How can you bring advanced reasoning to resource-constrained devices? This sessi
 
 ---
 
-![Banner](../img/S2-E3-AMA.png)
+![Banner](../../../data/assets/livestream/S2-E3-AMA.png)
 
 
 <!--

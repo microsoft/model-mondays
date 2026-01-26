@@ -28,4 +28,4 @@ Ready to build agentic AI applications? This session introduces the Azure AI Fou
 
 ---
 
-![Banner](../img/S2-E9.png)
+![Banner](../../../data/assets/livestream/S2-E9.png)

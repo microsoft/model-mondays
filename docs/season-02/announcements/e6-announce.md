@@ -28,4 +28,4 @@ Explore the latest breakthroughs from Azure AI Foundry Labs! This session featur
 
 ---
 
-![Banner](../img/S2-E6.png)
+![Banner](../../../data/assets/livestream/S2-E6.png)

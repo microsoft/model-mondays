@@ -28,4 +28,4 @@ Want to run AI models on your own hardware for privacy, speed, or edge computing
 
 ---
 
-![Banner](../img/S2-E8.png)
+![Banner](../../../data/assets/livestream/S2-E8.png)

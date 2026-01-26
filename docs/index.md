@@ -51,5 +51,5 @@ In Season 1, we're putting the spotlight on popular models and themes that are g
 
 !!! quote "MODEL MONDAYS: Build Your Model IQ" 
 
-    ![Banner](./img/model-mondays.png)
+    ![Banner](../data/assets/misc/model-mondays-2.png)
 

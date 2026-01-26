@@ -13,13 +13,13 @@
 
 <br/>
 
-![Model Mondays](./img/model-mondays-banner.png)
+![Model Mondays](./data/assets/misc/model-mondays-banner.png)
 
 As an AI native engineer, your journey starts with model choice. But with 10K+ models in Microsoft Foundry, 2M+ open-source model in Hugging Face, and new model releases every day, _how do you make informed decisions?_ With Model Mondays, we have three resources to help you go from awareness to action to adoption.
 
 1. [Model Mondays livestream](https://aka.ms/model-mondays/rsvp) - every Monday at 1:30pm EST with news, tech spotlights & customer stories
 1. [Foundry Friday AMA](https://aka.ms/model-mondays/discord) - every Monday at 1:30pm EST with demos, Q&A featuring subject matter experts
-1. [Models For Beginners](https://aka.ms/models-for-beginners) - curriculum launching Dec 2025 with 4 tracks and weekly lesson updates.
+1. [Models For Beginners](https://aka.ms/models-for-beginners) - curriculum planned for release in 2026.
 
 **Build your Model IQ** one week at a time - and go from scenario to solution by learning model fundamentals, understanding model selection, exploring model customization, and building trustworthy AI solutions with end-to-end observability. Join us by taking two actions today:
 
@@ -36,7 +36,7 @@ Over the next four months, we'll end each episode with a look at one lesson or l
 
 **Learn more at our kickoff - and watch for updates throughout the season.**
 
-![CTA](./img/model-mondays-s3.png)
+![CTA](./data/assets/misc/model-mondays-s3.png)
 
 
 
@@ -90,7 +90,7 @@ What if we put the "fun" back into Model Fundamentals? Model Mondays joined forc
 1. [Read The Contest Blog](https://aka.ms/models-blog) - to learn the tasks & get started
 1. [RSVP to Model Mondays](https://aka.ms/model-mondays/rsvp) - for a featured celebration in December.
 
-![Contest](./img/ignite25-agent-contest.png)
+![Contest](./data/assets/misc/ignite25-agent-contest.png)
 
 
 <br/>
@@ -100,7 +100,7 @@ What if we put the "fun" back into Model Fundamentals? Model Mondays joined forc
 
 > **Season 2 kicked off on Jun 16, 2025 and will run through Sep 2025. =Use the **Register** links to get reminders for upcoming events, and visit the **Replay** and **Recap** links to revisit past episodes and AMAs. Watch the complete [playlist of all series of Model Mondays](http://aka.ms/model-mondays/playlist)**
 
-![Season 2](./docs/season-02/img/S2-Banner-Lineup.png)
+![Season 2](./data/assets/livestream/S2-Banner-Lineup.png)
 
 | Episode | Topic | Monday Livestream | Friday AMA| Slides | Blog |
 |:---|:---|:---|:---|:---|:---|
@@ -139,7 +139,7 @@ What if we put the "fun" back into Model Fundamentals? Model Mondays joined forc
 
 > **Our pilot season featured 8 episodes covering models (green badges) and tools (magenta badges) in Azure AI Foundry. [Visit the Season 1 page](./docs/season-01/README.md) for details or click the episode specific badge below to go directly to the replay.**
 
-[![Season 1](./docs/season-01/img/S1-lineup.png)](./docs/season-01/README.md)
+[![Season 1](./data/assets/livestream/S1-lineup.png)](./docs/season-01/README.md)
 
 | Episode | Video | Blog | Slides | AMA | 
 |:---|:---|:---|:---|:---|
@@ -162,7 +162,7 @@ Great devs don't build alone! In a fast-pased developer ecosystem, there's no ti
 1. [Join the Discord](https://aka.ms/model-mondays/discord) - for real-time chats, events & learning
 1. [Explore the Forum](https://aka.ms/model-mondays/forum) - for AMA recaps, Q&A, and help!
 
-![CTA](./img/3-cta.png)
+![CTA](./data/assets/misc/3-cta.png)
 
 
 <br/>

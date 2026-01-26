@@ -27,4 +27,4 @@ Explore natural language and speech capabilities in your browser! This session w
 
 ---
 
-![Banner](../img/S2-E11.png)
+![Banner](../../../data/assets/livestream/S2-E11.png)

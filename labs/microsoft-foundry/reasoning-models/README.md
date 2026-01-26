@@ -5,7 +5,7 @@ This repository contains a number of examples that illustrate the functionality 
 
 Rewatch the episode talking through the scenarios here:
 
-[![Banner](../../../docs/season-01/img/S1E2-spotlight.png)](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
+[![Banner](../../../data/assets/livestream/S1E2-spotlight.png)](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
 
 The original code is available at https://github.com/jennifermarsman/o1Analysis.  
 
