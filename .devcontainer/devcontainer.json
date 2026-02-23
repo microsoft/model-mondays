@@ -1,9 +1,23 @@
 {
     "name": "Model Mondays",
     "image": "mcr.microsoft.com/devcontainers/universal:2",
-    "extensions": [
-        "ms-python.python",
-        "ms-toolsai.jupyter"
-    ],
-    "postCreateCommand": "pip install -r /workspaces/model-mondays/requirements.txt"
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-azuretools.azure-dev",
+                "ms-azuretools.vscode-bicep",
+                "ms-toolsai.jupyter",
+                "marp-team.marp-vscode"
+            ],
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python",
+                "python.linting.enabled": true,
+                "editor.formatOnSave": true,
+                "files.trimTrailingWhitespace": true
+            }
+        }
+    },
+    "postCreateCommand": "bash .devcontainer/post-create.sh"
 }
