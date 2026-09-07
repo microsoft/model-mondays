@@ -20,10 +20,10 @@ With 10K+ models available today (and more being added each week), building your
 
 | Trending On| Featured Models | Blog Post |
 |:---|:---|:---|
-| Feb 02, 2026 | 1. [zai-org-glm-4.7-flash](https://ai.azure.com/catalog/models/zai-org-glm-4.7-flash) <br/> 2. [facebook-sam3](https://ai.azure.com/catalog/models/facebook-sam3) <br/> 3. [minimaxai-minimax-m2.1](https://ai.azure.com/catalog/models/minimaxai-minimax-m2.1)| [PDF]()
-| Feb 09, 2026 | | |
+| Feb 02, 2026 | 1. [zai-org-glm-4.7-flash](https://ai.azure.com/catalog/models/zai-org-glm-4.7-flash) <br/> 2. [facebook-sam3](https://ai.azure.com/catalog/models/facebook-sam3) <br/> 3. [minimaxai-minimax-m2.1](https://ai.azure.com/catalog/models/minimaxai-minimax-m2.1)| [Tech Community Blog](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/what-is-trending-in-hugging-face-on-microsoft-foundry-feb-2-2026/4490602)
+| Feb 09, 2026 | 1. [Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) <br/> 2. [Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) <br/> 3. [Z-Image](https://huggingface.co/Tongyi-MAI/Z-Image)| [Tech Community Blog](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/now-in-foundry-qwen3-coder-next-qwen3-asr-1-7b-z-image/4493284)
 | Feb 16, 2026 | | |
-| Feb 23, 2026 | | |
+| Feb 23, 2026 | 1. [pubmedbert-base-embeddings](https://huggingface.co/NeuML/pubmedbert-base-embeddings) <br/> 2. [paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2) <br/> 3. [bge-m3](https://huggingface.co/BAAI/bge-m3)| [Tech Community Blog](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/what%E2%80%99s-trending-on-hugging-face-pubmedbert-base-embeddings-paraphrase-multilingu/4496185)
 | Mar 02, 2026 | | |
 | Mar 09, 2026 | | |
 | Mar 16, 2026 | | |
