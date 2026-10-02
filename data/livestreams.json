@@ -317,10 +317,15 @@
     "status": "completed",
     "host": "Lee Stott",
     "speakers": [
-      "Sanjeev Jagtap"
+      "Sanjeev Jagtap",
+      "Lee Stott",
+      "Nitya Narasimhan",
+      "Sharmila Chockalingam"
     ],
     "banner": "docs/assets/model-mondays/S4-E3.png",
-    "links": {},
+    "links": {
+      "recording": "https://www.youtube.com/watch?v=od_WTpE2nH4"
+    },
     "tags": []
   },
   {

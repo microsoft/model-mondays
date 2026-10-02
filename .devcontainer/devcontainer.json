@@ -12,7 +12,7 @@
                 "marp-team.marp-vscode"
             ],
             "settings": {
-                "python.defaultInterpreterPath": "/usr/local/bin/python",
+                "python.defaultInterpreterPath": "/home/codespace/.python/current/bin/python",
                 "python.linting.enabled": true,
                 "editor.formatOnSave": true,
                 "files.trimTrailingWhitespace": true

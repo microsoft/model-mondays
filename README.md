@@ -37,7 +37,7 @@ Season 4 runs from August 10 through November 2, 2026. Each episode focuses on a
 |:---:|:---|:---|:---|:---|:---:|
 | 01 | Aug 10, 2026 | Spotlight on MAI Models | Amy Boyd | Sophie Lebrecht<br>Yanan Cai | [View](docs/model-mondays/2026-08-10-s04-e01.md) |
 | 02 | Aug 17, 2026 | Cohere for Agentic AI | Bethany Jepchumba | Andy Tran | [View](docs/model-mondays/2026-08-17-s04-e02.md) |
-| 03 | Aug 24, 2026 | Spotlight on Model Router | Lee Stott | Sanjeev Jagtap | [View](docs/model-mondays/2026-08-24-s04-e03.md) |
+| 03 | Aug 24, 2026 | Spotlight on Model Router | Lee Stott | Sanjeev Jagtap<br>Lee Stott<br>Nitya Narasimhan<br>Sharmila Chockalingam | [View](docs/model-mondays/2026-08-24-s04-e03.md) |
 | 04 | Aug 31, 2026 | From Research to Reality | Nitya Narasimhan | Gulsimo Osimi<br>Yash Lara | [View](docs/model-mondays/2026-08-31-s04-e04.md) |
 | 05 | Sep 14, 2026 | Claude Models in Microsoft Foundry: Tool Integrations in Practice | Gustavo Cordido | Amanda Wong<br>Haoran Cheng | [View](docs/model-mondays/2026-09-14-s04-e05.md) |
 | 06 | Sep 21, 2026 | Spotlight on Azure OpenAI | Nitya Narasimhan | Ananya Bishnoi | [View](docs/model-mondays/2026-09-21-s04-e06.md) |
