@@ -46,7 +46,9 @@ Season 4 runs from August 10 through November 9, 2026. Each episode focuses on a
 | 09 | Oct 12, 2026 | Spotlight on Speech Models | Gustavo Cordido | Irene Du<br>Jacky Kang<br>Sharmila Chockalingam<br>Tanvi Tushar Shah<br>Yiwen Rong<br>Nitya Narasimhan | [View](docs/model-mondays/2026-10-12-s04-e09.md) |
 | 10 | Oct 19, 2026 | Spotlight on Hugging Face | Amy Boyd | Manoj Bableshwar<br>Marie-Louise Onga Nana<br>Sharmila Chockalingam<br>Jeff Boudier<br>Nitya Narasimhan | [View](docs/model-mondays/2026-10-19-s04-e10.md) |
 | 11 | Oct 26, 2026 | Spotlight on Open Models | Bethany Jepchumba | Brett Laffel<br>Dr Gana Chandrasekaran<br>Long Chen<br>Sharmila Chockalingam<br>Nitya Narasimhan | [View](docs/model-mondays/2026-10-26-s04-e11.md) |
-| 12 | Nov 9, 2026 | Spotlight on NVIDIA Models | Nitya Narasimhan | Marie-Louise Onga Nana<br>Sharmila Chockalingam | [View](docs/model-mondays/2026-11-09-s04-e12.md) |
+| 12 | Nov 9, 2026 | Spotlight on NVIDIA Models | Nitya Narasimhan | Marie-Louise Onga Nana<br>Sharmila Chockalingam | [‼️Cancelled](docs/model-mondays/2026-11-09-s04-e12.md) |
+
+🚨 · _Model Mondays Season 4 kicked off August 10 and ended November 2 with a scheduled 12 episodes, of which 11 have aired. Our final episode is being cancelled in view of scheduling conflicts and upcoming Microsoft Ignite priorities. Keep an eye out for updates related to **Season 5** currently in planning for Jan 2027._ **Thank you for watching and supporting us!**
 
 ## Explore More
 
